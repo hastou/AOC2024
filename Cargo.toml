@@ -1,0 +1,66 @@
+[package]
+name = "advent2024"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+regex = "1.11.1"
+rayon = "1.10.0"
+
+[[bin]]
+name = "ex1"
+path = "ex1/ex1.rs"
+
+[[bin]]
+name = "ex2"
+path = "ex2/ex2.rs"
+
+[[bin]]
+name = "ex3"
+path = "ex3/ex3.rs"
+
+[[bin]]
+name = "ex4"
+path = "ex4/ex4.rs"
+
+[[bin]]
+name = "ex4-2"
+path = "ex4/ex4-2.rs"
+
+[[bin]]
+name = "ex5"
+path = "ex5/ex5.rs"
+
+[[bin]]
+name = "ex6"
+path = "ex6/ex6.rs"
+
+[[bin]]
+name = "ex7"
+path = "ex7/ex7.rs"
+
+[[bin]]
+name = "ex8"
+path = "ex8/ex8.rs"
+
+[[bin]]
+name = "ex9"
+path = "ex9/ex9.rs"
+
+[[bin]]
+name = "ex10"
+path = "ex10/ex10.rs"
+
+[[bin]]
+name = "ex11"
+path = "ex11/ex11.rs"
+
+[[bin]]
+name = "ex12"
+path = "ex12/ex12.rs"
+
+[[bin]]
+name = "ex24"
+path = "ex24/ex24.rs"
